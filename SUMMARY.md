@@ -1,0 +1,16 @@
+# Table of contents
+
+* [📜 Story](README.md)
+* [🚀 Get Started](get-started.md)
+* [✨ Summon Your Warship](summon-your-warship.md)
+* [🔢 Level](level.md)
+* [🛸 Role](role.md)
+* [🔥 Attributes](attributes.md)
+* [🌃 Combat](combat.md)
+* [🎯 Daily Mining](daily-mining.md)
+* [👽 PVE](pve.md)
+* [🪧 Advance notice](advance-notice/README.md)
+  * [🎲 Washing Attributes](advance-notice/washing-attributes.md)
+  * [🎮 PVP](advance-notice/pvp.md)
+  * [🤹♂ Hero](advance-notice/hero.md)
+  * [🌎 Planet](advance-notice/planet.md)
