@@ -1,22 +1,22 @@
 # Table of contents
 
-* [📜 Story](README.md)
-* [🚀 Get Started](get-started.md)
+* [📜 故事](README.md)
+* [🚀 开始](kai-shi.md)
 
 ## PLAY
 
-* [🎴 Summon Your Warship](play/summon-your-warship.md)
-* [🔢 Level](play/level.md)
-* [🛸 Role](play/role.md)
-* [🔥 Attributes](play/attributes.md)
-* [🆚 Combat](play/combat.md)
+* [🎴 抽卡](play/chou-ka.md)
+* [🔢 等级](play/deng-ji.md)
+* [🛸 角色](play/jiao-se.md)
+* [🔥 属性](play/shu-xing.md)
+* [🆚 战斗](play/zhan-dou.md)
 
 ## EARN
 
-* [💰 Daily Mining](earn/daily-mining.md)
-* [⚔ PVE](earn/pve.md)
-* [🪧 Advance Notice](earn/advance-notice/README.md)
-  * [🎲 Recasting Attributes](earn/advance-notice/recasting-attributes.md)
-  * [🎮 PVP](earn/advance-notice/pvp.md)
-  * [🤹♂ Hero](earn/advance-notice/hero.md)
-  * [🌎 Planet](earn/advance-notice/planet.md)
+* [💰 日常挖矿](earn/ri-chang-wa-kuang.md)
+* [⚔ 战斗副本](earn/zhan-dou-fu-ben.md)
+* [🪧 预告](earn/yu-gao/README.md)
+  * [🎲 洗练属性](earn/yu-gao/xi-lian-shu-xing.md)
+  * [🎮 PVP](earn/yu-gao/pvp.md)
+  * [🤹♂ 英雄系统](earn/yu-gao/ying-xiong-xi-tong.md)
+  * [🌎 NFT行星](earn/yu-gao/nft-hang-xing.md)
