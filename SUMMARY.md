@@ -2,15 +2,21 @@
 
 * [📜 Story](README.md)
 * [🚀 Get Started](get-started.md)
-* [✨ Summon Your Warship](summon-your-warship.md)
-* [🔢 Level](level.md)
-* [🛸 Role](role.md)
-* [🔥 Attributes](attributes.md)
-* [🌃 Combat](combat.md)
-* [🎯 Daily Mining](daily-mining.md)
-* [👽 PVE](pve.md)
-* [🪧 Advance notice](advance-notice/README.md)
-  * [🎲 Washing Attributes](advance-notice/washing-attributes.md)
-  * [🎮 PVP](advance-notice/pvp.md)
-  * [🤹♂ Hero](advance-notice/hero.md)
-  * [🌎 Planet](advance-notice/planet.md)
+
+## PLAY
+
+* [✨ Summon Your Warship](play/summon-your-warship.md)
+* [🔢 Level](play/level.md)
+* [🛸 Role](play/role.md)
+* [🔥 Attributes](play/attributes.md)
+* [🌃 Combat](play/combat.md)
+
+## EARN
+
+* [🎯 Daily Mining](earn/daily-mining.md)
+* [👽 PVE](earn/pve.md)
+* [🪧 Advance notice](earn/advance-notice/README.md)
+  * [🎲 Washing Attributes](earn/advance-notice/washing-attributes.md)
+  * [🎮 PVP](earn/advance-notice/pvp.md)
+  * [🤹♂ Hero](earn/advance-notice/hero.md)
+  * [🌎 Planet](earn/advance-notice/planet.md)

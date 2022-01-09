@@ -16,7 +16,7 @@ There are no role and level requirements.
 
 Remuneration per block: 0.005 ORFL
 
-![](.gitbook/assets/1.png)
+![](../.gitbook/assets/1.png)
 
 ### Interstellar fortress
 
@@ -34,7 +34,7 @@ Grade requirements: 2
 
 Compensation per block: 0.008 + (sum of 6 attributes-200x200) 0.008 ORFL
 
-![](<.gitbook/assets/2 (1).png>)
+![](<../.gitbook/assets/2 (1).png>)
 
 ### Interstellar space station
 
@@ -52,7 +52,7 @@ Grade requirements: 2
 
 Remuneration per block: 0.006 million \* (sum of 6 attributes-200x200) 0.006 ORFL
 
-![](<.gitbook/assets/3 (1).png>)
+![](<../.gitbook/assets/3 (1).png>)
 
 ### Orbital space station
 
@@ -70,7 +70,7 @@ Grade requirements: 2
 
 Compensation per block: 0.005 + (sum of 6 attributes-200x200) \* 0.005 ORFL
 
-![](.gitbook/assets/4.png)
+![](../.gitbook/assets/4.png)
 
 ### Cosmic port
 
@@ -90,4 +90,4 @@ Compensation per block: 0.005 + (sum of 6 attributes-200x200) \* 0.005 ORFL
 
 Warships can only receive one reward every 24 hours.
 
-![](<.gitbook/assets/5 (1).png>)
+![](<../.gitbook/assets/5 (1).png>)

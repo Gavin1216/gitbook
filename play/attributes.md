@@ -2,7 +2,7 @@
 
 All characters' damage types are divided into physical attacks and energy attacks, and there are other attributes that are different: Firepower, curvature engine, energy shield, armor, vitality, technology.
 
-![](<.gitbook/assets/1 (1).png>)
+![](<../.gitbook/assets/1 (1).png>)
 
 ### Firepower
 
