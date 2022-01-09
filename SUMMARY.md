@@ -5,7 +5,7 @@
 
 ## PLAY
 
-* [🎲 Summon Your Warship](play/summon-your-warship.md)
+* [🎴 Summon Your Warship](play/summon-your-warship.md)
 * [🔢 Level](play/level.md)
 * [🛸 Role](play/role.md)
 * [🔥 Attributes](play/attributes.md)
