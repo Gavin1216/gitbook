@@ -8,13 +8,13 @@ Rarity: SS (2%)
 
 Damage: Physical attack
 
-Advantage: Power
+Advantage: Firepower
 
 Disadvantage: Curvature engine
 
 The Interstellar Cruise Ship is the command center of the fleet. An aircraft carrier equipped with heavy armor and energy shields can release a large number of interstellar interceptors and forcibly break through the enemy's defenses. Interstellar interceptors can be under the overall control of the mother ship to search, track, lock and attack hostile targets over a wide range, and can fire enemy ships at any angle in all directions. The ship itself can also use antimatter heavy artillery to mercilessly wipe out opponents.
 
-![](<../.gitbook/assets/1 (1).png>)
+![](<../.gitbook/assets/1 (2).png>)
 
 ### Interstellar Titan Ship
 
@@ -42,7 +42,7 @@ Disadvantage: Curvature engine
 
 Equipped with particle beam weapons, the Interstellar Destroyer Ship is the backbone of the fleet, and its performance is contrary to that of the responsive frigate. The interstellar destroyer sacrifices its flexible maneuverability to increase the thickness of its armor. with its strong hull and excellent firepower, it usually performs well on the battlefield. It has the remarkable characteristics of strong comprehensive combat capability, large endurance, good airworthiness, strong survivability and many uses.
 
-![](../.gitbook/assets/3.png)
+![](<../.gitbook/assets/3 (1).png>)
 
 ### Interstellar Missile Ship
 
@@ -50,7 +50,7 @@ Rarity: S (6%)
 
 Damage: Physical attack
 
-Advantage: Power
+Advantage: Firepower
 
 Disadvantage: Curvature engine
 
@@ -68,11 +68,11 @@ Advantage: Curvature engine
 
 Disadvantage: Energy shield
 
-The Interstellar Frigate Ship is mainly engaged in escort, patrol, vigilance and other combat tasks for the Starfleet, belonging to small and medium-sized warships, famous for its mobility and flexibility, fast flight speed, quick response, and ferocious close-range artillery. Future criminals will be wiped out in the invisible. The Starfrigate is the smallest battleship in the Starfleet and is often assigned to patrol dangerous areas in addition to escorts.
+The Interstellar Frigate Ship is mainly engaged in escort, patrol, vigilance and other combat tasks for the Starfleet, belonging to small and medium-sized warships, famous for its mobility and flexibility, fast flight speed, quick response, and ferocious close-range artillery. Future criminals will be wiped out in the invisible. The Interstellar Frigate Ship is the smallest warship in the Starfleet and is often assigned to patrol dangerous areas in addition to escorts.
 
-![](../.gitbook/assets/5.png)
+![](<../.gitbook/assets/5 (1).png>)
 
-### Interstellar Battleship
+### Interstellar Belligerence Ship
 
 Rarity: N (21%)
 
@@ -80,9 +80,9 @@ Damage: Energy attack
 
 Advantage: Armour
 
-Disadvantage: Power
+Disadvantage: Firepower
 
-As one of the main forces of the fleet, interstellar battleships are mainly used to attack enemy warships. The heavy laser guns carried by them can directly penetrate enemy armor and have unparalleled lethality in close combat. It is praised as "Star Wars generalist". The Star Battleship is equipped with 10 meters thick external armor, which can withstand a certain degree of intensive gunfire, and its counterattack ability is good, so it belongs to a powerful multi-purpose battleship.
+As one of the main forces of the fleet, the Interstellar Belligerence Ship are mainly used to attack enemy warships. The heavy laser guns carried by them can directly penetrate enemy armor and have unparalleled lethality in close combat. It is praised as "Star Wars generalist". the Interstellar Belligerence Ship is equipped with 10 meters thick external armor, which can withstand a certain degree of intensive gunfire, and its counterattack ability is good, so it belongs to a powerful multi-purpose warship.
 
 ![](../.gitbook/assets/6.png)
 
@@ -94,9 +94,9 @@ Damage: Physical attack
 
 Advantage: Technology
 
-Disadvantage: Power
+Disadvantage: Firepower
 
-The function of the interstellar reconnaissance ship is to detect the enemy's position, approach the enemy's fleet, intercept the signals and intelligence transmitted by the other party through high-tech means, understand its military movements, and contain the enemy. Its ultra-high scientific and technological capabilities can also block the space transition behavior of enemy warships, making it impossible for the enemy within the limits to escape safely. Its battleship firepower may not be feared, but no one dares to ignore its strategic significance.
+The function of the Interstellar Reconnaissance Ship is to detect the enemy's position, approach the enemy's fleet, intercept the signals and intelligence transmitted by the other party through high-tech means, understand its military movements, and contain the enemy. Its ultra-high scientific and technological capabilities can also block the space transition behavior of enemy warships, making it impossible for the enemy within the limits to escape safely. Its firepower may not be worth mentioning, but no one dares to ignore its strategic significance.
 
 ![](../.gitbook/assets/7.png)
 
@@ -110,6 +110,6 @@ Advantage: Vitality
 
 Disadvantage: Armour
 
-Interstellar Transport Ship is a service warship used to transport personnel, weapons and supplies to the front, equipped with defensive plasma artillery, with the characteristics of high mobility and high endurance. It has a prominent strategic position and often cooperates with frigates to complete transport tasks. At the same time, because of its own advantages, it is also the absolute main force in resource collection and transportation.
+The Interstellar Transport Ship is a service warship used to transport personnel, weapons and supplies to the front, equipped with defensive plasma artillery, with the characteristics of high mobility and high endurance. It has a prominent strategic position and often cooperates with frigates to complete transport tasks. At the same time, because of its own advantages, it is also the absolute main force in resource collection and transportation.
 
 ![](../.gitbook/assets/8.png)

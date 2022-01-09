@@ -10,7 +10,7 @@ Firepower determines the physical attack ability of warships and is the key to p
 
 ### Curvature engine
 
-The curvature engine determines the speed of the warship and whether it can sail, fight and work fast without interruption. Curvature drive refers to the transformation of space-time itself to drive the spacecraft to break the insurmountable limit of the speed of light. If your battleship is fast, they will have a better chance of avoiding enemy attacks. Speed is also an important attribute in PVE combat and PVP combat.
+The curvature engine determines the speed of the warship and whether it can sail, fight and work fast without interruption. Curvature drive refers to the transformation of space-time itself to drive the spacecraft to break the insurmountable limit of the speed of light. If your warship is fast, they will have a better chance of avoiding enemy attacks. Speed is also an important attribute in PVE combat and PVP combat.
 
 ### Energy shield
 
@@ -18,7 +18,7 @@ The energy shield determines the energy attack defense capability of the warship
 
 ### Armor
 
-The armor determines the physical attack defense ability of the warship. The warship armor uses graphene nanocomposite technology, which can easily resist most physical attacks. The stronger the armor, the less physical damage it will suffer. The more courage a baby has, the more defensive he will be against physical damage. Armor is also an important attribute of PVE combat and PVP combat.
+The armor determines the physical attack defense ability of the warship. The warship armor uses graphene nanocomposite technology, which can easily resist most physical attacks. The stronger the armor, the less physical damage it will suffer. Armor is also an important attribute of PVE combat and PVP combat.
 
 ### Vitality
 
@@ -26,4 +26,4 @@ Vitality determines the anti-attack ability of warships, which refers to the abi
 
 ### Technology
 
-The advanced degree of science and technology determines the damage of warship energy attack, which is the key to breaking the enemy's energy shield. The higher the level of scientific and technological development, the higher the energy damage of the battleship. Technology is also an important attribute of PVE combat and PVP combat.
+The advanced degree of science and technology determines the damage of warship energy attack, which is the key to breaking the enemy's energy shield. The higher the level of scientific and technological development, the higher the energy damage of the warship. Technology is also an important attribute of PVE combat and PVP combat.
