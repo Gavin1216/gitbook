@@ -14,9 +14,9 @@
 ## EARN
 
 * [💰 Daily Mining](earn/daily-mining.md)
-* [👽 PVE](earn/pve.md)
+* [⚔ PVE](earn/pve.md)
 * [🪧 Advance Notice](earn/advance-notice/README.md)
-  * [🎲 Washing Attributes](earn/advance-notice/washing-attributes.md)
+  * [🎲 Recasting Attributes](earn/advance-notice/recasting-attributes.md)
   * [🎮 PVP](earn/advance-notice/pvp.md)
   * [🤹♂ Hero](earn/advance-notice/hero.md)
   * [🌎 Planet](earn/advance-notice/planet.md)

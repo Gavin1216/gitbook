@@ -1,4 +1,4 @@
-# 👽 PVE
+# ⚔ PVE
 
 Take up arms and defend your fleet!
 
