@@ -1,6 +1,6 @@
 # 🛸 Role
 
-Players who create characters will randomly get a battleship. There are currently **8 types of warships**. More types of battleships will be available as the game is updated in the future.
+Players who create characters will randomly get a warship. There are **8 types of warships**. More types of warships will be available as the game is updated in the future.
 
 ### Interstellar Cruise Ship
 

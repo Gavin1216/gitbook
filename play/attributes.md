@@ -1,6 +1,6 @@
 # 🔥 Attributes
 
-All characters' damage types are divided into physical attacks and energy attacks, and there are other attributes that are different: Firepower, curvature engine, energy shield, armor, vitality, technology.
+All characters' damage types are divided into physical attacks and energy attacks, and there are other attributes that are different: firepower, curvature engine, energy shield, armor, vitality, technology.
 
 ![](<../.gitbook/assets/1 (1).png>)
 
@@ -8,11 +8,11 @@ All characters' damage types are divided into physical attacks and energy attack
 
 Firepower determines the physical attack ability of warships and is the key to penetrating enemy armor. The giant main gun uses accelerated solid shells to accelerate the shells to a very high speed, resulting in great lethality. Firepower is not only an important attribute of a warship, but also an important attribute of PVE combat and PVP combat.
 
-### Curvature engine
+### Curvature Engine
 
 The curvature engine determines the speed of the warship and whether it can sail, fight and work fast without interruption. Curvature drive refers to the transformation of space-time itself to drive the spacecraft to break the insurmountable limit of the speed of light. If your warship is fast, they will have a better chance of avoiding enemy attacks. Speed is also an important attribute in PVE combat and PVP combat.
 
-### Energy shield
+### Energy Shield
 
 The energy shield determines the energy attack defense capability of the warship. it is an advanced defense technology that covers the charged particle field on the surface of the object. most of the energy shields can counteract various forms of directional energy flow and protect the warship from energy damage. Energy shield is also an important attribute of PVE combat and PVP combat.
 
