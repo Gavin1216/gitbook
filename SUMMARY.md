@@ -20,3 +20,8 @@
   * [🎮 PVP](earn/yu-gao/pvp.md)
   * [🤹♂ 英雄系统](earn/yu-gao/ying-xiong-xi-tong.md)
   * [🌎 NFT行星](earn/yu-gao/nft-hang-xing.md)
+
+***
+
+* [邀请计划](yao-qing-ji-hua.md)
+* [双通证](shuang-tong-zheng.md)
