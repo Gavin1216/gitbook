@@ -18,7 +18,7 @@
 * [🪧 预告](earn/yu-gao/README.md)
   * [🎲 洗练属性](earn/yu-gao/xi-lian-shu-xing.md)
   * [🎮 PVP](earn/yu-gao/pvp.md)
-  * [🤹♂ 英雄系统](earn/yu-gao/ying-xiong-xi-tong.md)
+  * [🤹♂ 英雄系统(3D)](earn/yu-gao/ying-xiong-xi-tong-3d.md)
   * [🌎 NFT行星](earn/yu-gao/nft-hang-xing.md)
 
 ***
