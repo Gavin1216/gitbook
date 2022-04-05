@@ -1,6 +1,6 @@
 # 📜 故事
 
-![](<.gitbook/assets/story (1).png>)
+![](.gitbook/assets/首页图.png)
 
 {% hint style="success" %}
 探索舰是Binance Smart Chain(BSC)链的一款星际探索类的元宇宙链游。玩家可以抽取战舰，完成日常任务，征服神秘的星际区域，掠夺稀有物品来边玩边赚。
